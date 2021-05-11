@@ -1,0 +1,23 @@
+body{
+    background-color:  #eaf4f4;
+}
+.page-head{
+    background-color: #f6fff8;
+}
+.wrap{
+    padding: 0 250px 0 200px;
+    margin: 0;
+}
+.row{
+    margin-top: 30px;
+}
+footer{
+    height: 100px;
+}
+.concact{
+    padding-top: 20px;
+    margin-left: 600px;
+}
+.copy{
+    padding-top: 20px;
+}
